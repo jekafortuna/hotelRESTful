@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="inventory:war">
+    <output-path>$PROJECT_DIR$/inventory/target</output-path>
+    <root id="archive" name="hotelRESTful-inventory-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="inventory:war exploded" />
+    </root>
+  </artifact>
+</component>

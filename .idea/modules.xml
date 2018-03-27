@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/all/all.iml" filepath="$PROJECT_DIR$/all/all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/availability/availability.iml" filepath="$PROJECT_DIR$/availability/availability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/billing/billing.iml" filepath="$PROJECT_DIR$/billing/billing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/booking/booking.iml" filepath="$PROJECT_DIR$/booking/booking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commoon/commoon.iml" filepath="$PROJECT_DIR$/commoon/commoon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotelRESTful.iml" filepath="$PROJECT_DIR$/hotelRESTful.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inventory/inventory.iml" filepath="$PROJECT_DIR$/inventory/inventory.iml" />
+    </modules>
+  </component>
+</project>

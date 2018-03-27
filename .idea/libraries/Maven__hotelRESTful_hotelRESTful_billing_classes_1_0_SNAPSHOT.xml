@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Maven: hotelRESTful:hotelRESTful-billing:classes:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/hotelRESTful/hotelRESTful-billing/1.0-SNAPSHOT/hotelRESTful-billing-1.0-SNAPSHOT-classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/commoon/hotelRESTful-billing-1.0-SNAPSHOT-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/booking/hotelRESTful-billing-1.0-SNAPSHOT-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/hotelRESTful/hotelRESTful-billing/1.0-SNAPSHOT/hotelRESTful-billing-1.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/commoon/hotelRESTful-billing-1.0-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/booking/hotelRESTful-billing-1.0-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/hotelRESTful/hotelRESTful-billing/1.0-SNAPSHOT/hotelRESTful-billing-1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
